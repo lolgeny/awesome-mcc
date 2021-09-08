@@ -70,6 +70,7 @@ A curated list of minecraft commands and mapmaking resources.
 **Utility**
 - [Benchmark](https://www.planetminecraft.com/data-pack/benchmark-a-data-pack-for-testing-function-efficiency/) - a data pack for testing the efficiency of some function or command technique
 - [Command Block Preview](https://www.planetminecraft.com/data-pack/command-block-preview/) - preview command block context with floating text
+- [Data Pack Helper Plus](https://marketplace.visualstudio.com/items?itemName=SPGoding.datapack-language-server) - Visual Studio Code extension for data pack development
 
 **Worldgen**
 - [Exported 1.18 Settings](https://github.com/misode/vanilla-worldgen/tree/1.18-experimental) - using modding, the vanilla worldgen files for the 1.18 experimental snapshots
