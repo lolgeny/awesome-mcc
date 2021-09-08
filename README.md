@@ -48,7 +48,7 @@ A curated list of minecraft commands and mapmaking resources.
 - [FancyPants](https://github.com/Ancientkingg/fancyPants) - allows datapack devs to add custom textured armor to the game with coloured leather armor with core shaders
 - [Mc Atlas UV Resolver](https://github.com/OrangeUtan/mc-atlas-uv-resolver/releases) - generated uv atalas for 1.17
 - [Player model mapping](https://user-images.githubusercontent.com/30565442/132574881-47defa76-cbe7-420d-9ca4-56b743666eca.png) - reference for the value of gl_VertexID in rendertype_entity_translucent for a player model
-- [Shaders wiki](https://github.com/ShockMicro/Minecraft-Shaders/wiki) - a helpful guide to minecraft's shader system
+- [Core Shader Info](https://docs.google.com/document/d/18AhcnAI55liax72yh70njUomIzezOKshCurfdZPTKwM/edit#heading=h.o0otiitbizd) - a helpful guide to minecraft's shader system
 - [VanillaDynamicEmissives](https://github.com/ShockMicro/VanillaDynamicEmissives/) - a simple way to make emissive textures without Optifine
 
 **Statistics**
