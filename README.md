@@ -1,6 +1,8 @@
 # awesome-mcc
 A curated list of minecraft commands and mapmaking resources.
 
+**Contributions are welcome and wanted. See CONTRIBUTING.md for more info.**
+
 **Blockbench**
 - [Armor Stand Animator](https://github.com/DoubleF3lix/Armor-Stand-Animator) - provides an interface for Blockbench to animate armor stands which is converted to a data pack
 
