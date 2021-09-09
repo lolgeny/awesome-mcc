@@ -56,7 +56,7 @@ A curated list of minecraft commands and mapmaking resources.
 
 **Shaders**
 - [Core shaders - Onnowhere](https://github.com/onnowhere/core_shaders) - contains utilities and examples for core shaders
-- [Depth shaders - Onnowhere](https://github.com/onnowhere/depth_shaders) - contains examples of depth shaders including LinearizeDepth function
+- [Depth shaders - Onnowhere](https://github.com/onnowhere/depth_shaders) - contains examples of depth shaders including function to linearize depth
 - [FancyPants](https://github.com/Ancientkingg/fancyPants) - allows datapack devs to add custom textured armor to the game with coloured leather armor with core shaders
 - [Mc Atlas UV Resolver](https://github.com/OrangeUtan/mc-atlas-uv-resolver/releases) - generated uv atalas for 1.17
 - [Player model mapping](https://user-images.githubusercontent.com/30565442/132574881-47defa76-cbe7-420d-9ca4-56b743666eca.png) - reference for the value of gl_VertexID in rendertype_entity_translucent for a player model
