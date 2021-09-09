@@ -1,7 +1,7 @@
 # awesome-mcc
 A curated list of minecraft commands and mapmaking resources.
 
-**Contributions are welcome and wanted. See CONTRIBUTING.md for more info.**
+**Contributions are welcome and wanted. See [CONTRIBUTING.md](CONTRIBUTING.md) for more info.**
 
 **Blockbench**
 - [Armor Stand Animator](https://github.com/DoubleF3lix/Armor-Stand-Animator) - provides an interface for Blockbench to animate armor stands which is converted to a data pack
@@ -15,14 +15,15 @@ A curated list of minecraft commands and mapmaking resources.
 - [Lantern load](https://github.com/LanternMC/load) - a simple implementation of version resolution intended to allow data packs and their dependencies to load in a controllable order
 - [NBT Crafting API](https://github.com/BigPapi13/NBT-Crafting-API) - allows datapack creators to get the nbt data of items used in the crafting table and apply it to the output
 - [Score based damage](https://github.com/ErrorCraft/Score-Based-Damage/releases) - apply damage dynamically based on a score
-- [Quiet custom blocks](https://github.com/Ellivers/QCB) - make barrel based blocks without the noise
 - [String Parsing](https://github.com/5uso/String-Parser) - parse strings into a char array
+- [Quiet custom blocks](https://github.com/Ellivers/QCB) - make barrel based blocks without the noise
 
 **Mods**
 - [Data reload](https://www.curseforge.com/minecraft/mc-mods/data-reload) - displays datapack load errors in chat (when installed server side) and adds a F3+Y keybind to /reload (when installed client side)
 - [Gitmod](https://github.com/rx-modules/GitMod) - a cursed serverside git client in mc
 - [Resource reload](https://github.com/PotatoPresident/resource-reload/tree/1.0.0) - resends the server resource pack to clients on `/reload`
 - [Shader reload](https://www.curseforge.com/minecraft/mc-mods/shader-reload) - adds F3+R to reload shaders only much faster, displaying errors in chat
+- [Worldedit](https://www.curseforge.com/minecraft/mc-mods/worldedit) - a map editor that runs in game
 
 **Processing**
 - [babelbox](https://github.com/OrangeUtan/babelbox) - a language localization generator
@@ -33,13 +34,16 @@ A curated list of minecraft commands and mapmaking resources.
 **Programming languages**
 - [CMC](https://github.com/Command-Master/CMC) - an object oriented language which compiles to commands
 - [McFunctionExtensions](https://github.com/cgytrus/MCFunctionExtensions) - some extensions to the vanilla Minecraft functions syntax
+- [Onyx](https://pypi.org/project/onyx-mclib) - a python library to create datapacks
 - [Sandstone](https://github.com/TheMrZZ/Sandstone) - a javascript library for datapacks
+- [Trident](https://energyxxer.com/trident/) - an extensive programming language for datapacks
 
 **Programs**
 - [Entity motion predictor](https://www.desmos.com/calculator/z7ouukcemh) - predict an entity's motion
 - [Image to particles converter](https://github.com/RedCocoon/PythonSiphon/blob/main/minecraft-tools/image_to_particles_converter.py) - convert an image into particles
 - [Mapcraft](https://mapcraft.app/) - software that increases the possibilities of mapmakers without any complex installation
 - [Minecraft version compare](https://github.com/Plagiatus/mc-version-compare/releases) - a program that analyses the assets and data folders of the jars of two versions and shows you what changed between them
+- [NBT Studio](https://github.com/tryashtar/nbt-studio) - an up to date NBT viewer and editor with lots of new features
 
 **Resource packs**
 - [Negative space font](https://github.com/AmberWat/NegativeSpaceFont/blob/master/README.md) - resource pack with positive and negative sized spaces
@@ -75,5 +79,6 @@ A curated list of minecraft commands and mapmaking resources.
 **Worldgen**
 - [Exported 1.18 Settings](https://github.com/misode/vanilla-worldgen/tree/1.18-experimental) - using modding, the vanilla worldgen files for the 1.18 experimental snapshots
 
-**Visual Studio Code**
+**VSCode**
 - [Data Pack Helper Plus](https://marketplace.visualstudio.com/items?itemName=SPGoding.datapack-language-server) - Visual Studio Code extension for data pack development
+- [NBT Viewer](https://marketplace.visualstudio.com/items?itemName=Misodee.vscode-nbt) - view nbt files and structure nbt files
