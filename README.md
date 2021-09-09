@@ -37,6 +37,7 @@ A curated list of minecraft commands and mapmaking resources.
 **Programming languages**
 - [Bell](https://github.com/Miestrode/bell) - programming language to help Minecraft data pack developers work smarter and faster
 - [CMC](https://github.com/Command-Master/CMC) - an object oriented language which compiles to commands
+- [debris](https://github.com/Inky-developer/debris) - Debris is a powerful language & compiler which aims to make the process of creating a datapack easier and quicker
 - [mc-build/lang-mc](https://mcbuild.dev) - a function like language with syntactic sugar for creating datapacks.
 - [McFunctionExtensions](https://github.com/cgytrus/MCFunctionExtensions) - some extensions to the vanilla Minecraft functions syntax
 - [Onyx](https://pypi.org/project/onyx-mclib) - a python library to create datapacks
