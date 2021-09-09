@@ -5,11 +5,13 @@ A curated list of minecraft commands and mapmaking resources.
 
 **Blockbench**
 - [Armor Stand Animator](https://github.com/DoubleF3lix/Armor-Stand-Animator) - provides an interface for Blockbench to animate armor stands which is converted to a data pack
+- [Blockbench](https://www.blockbench.net) - a boxy 3D model editor
 
 **Generators**
 - [Shapes Generator](https://chencmd.github.io/Shapes-Generator/) - a web tool that can generate mcfunction files consisting of static particle commands
 - [mcgen](https://github.com/Arcensoth/mcgen) - create your own copy of mcdata
 - [misode.github.io](https://misode.github.io) - a collection of amazing generators for datapacks
+- [Raycast Generator](https://skylinerw.com/vdvman1/raycast/) - generate raycast datapacks
 
 **Libraries**
 - [Lantern load](https://github.com/LanternMC/load) - a simple implementation of version resolution intended to allow data packs and their dependencies to load in a controllable order
@@ -17,6 +19,7 @@ A curated list of minecraft commands and mapmaking resources.
 - [Score based damage](https://github.com/ErrorCraft/Score-Based-Damage/releases) - apply damage dynamically based on a score
 - [String Parsing](https://github.com/5uso/String-Parser) - parse strings into a char array
 - [Quiet custom blocks](https://github.com/Ellivers/QCB) - make barrel based blocks without the noise
+- [Arithmatic WASD](https://github.com/MulverineX/wasd_arithmetic) - detection of local direction input (ie wasd)
 
 **Mods**
 - [Data reload](https://www.curseforge.com/minecraft/mc-mods/data-reload) - displays datapack load errors in chat (when installed server side) and adds a F3+Y keybind to /reload (when installed client side)
@@ -32,6 +35,7 @@ A curated list of minecraft commands and mapmaking resources.
 - [Mitochondria](https://mito.thenuclearnexus.live/) - a website to merge resourcepacks and datapacks
 
 **Programming languages**
+- [Bell](https://github.com/Miestrode/bell) - programming language to help Minecraft data pack developers work smarter and faster
 - [CMC](https://github.com/Command-Master/CMC) - an object oriented language which compiles to commands
 - [McFunctionExtensions](https://github.com/cgytrus/MCFunctionExtensions) - some extensions to the vanilla Minecraft functions syntax
 - [Onyx](https://pypi.org/project/onyx-mclib) - a python library to create datapacks
@@ -67,6 +71,7 @@ A curated list of minecraft commands and mapmaking resources.
 - [aqoc](https://aqoc.github.io) - a collection of tutorials for common command questions
 - [Custom UI bars](https://www.youtube.com/watch?v=EL2X6ppZSCQ) - how to add custom ui bars such as mana
 - [Entity hit detection](https://www.youtube.com/watch?v=YZfCBBvOMN4) - how to target hit entities
+- [How not to use /execute](https://gist.github.com/Aeldrion/419e3da12666280cbfd2dabf567dc36c) - common mistakes people make with `/execute`
 - [Practices and tricks](https://gist.github.com/Ellivers/762822ee452f1beb058f044ec3139d73) - some good practices and common tricks for making a data pack for people that aren't as experienced
 - [Removing red numbers from sidebars](https://www.youtube.com/watch?v=dD6V0bKf-Bc) - how to display in the scoreboard without red number lines
 - [Smooth Rotation](https://www.youtube.com/watch?v=xamAY7fpgeQ) - smoothly rotate the player over time
