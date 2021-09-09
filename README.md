@@ -41,6 +41,7 @@ A curated list of minecraft commands and mapmaking resources.
 - [Onyx](https://pypi.org/project/onyx-mclib) - a python library to create datapacks
 - [Sandstone](https://github.com/TheMrZZ/Sandstone) - a javascript library for datapacks
 - [Trident](https://energyxxer.com/trident/) - an extensive programming language for datapacks
+- [mc-build/lang-mc](https://mcbuild.dev) - a function like language with syntactic sugar for creating datapacks.
 
 **Programs**
 - [Entity motion predictor](https://www.desmos.com/calculator/z7ouukcemh) - predict an entity's motion
