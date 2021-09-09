@@ -20,6 +20,7 @@ A curated list of minecraft commands and mapmaking resources.
 - [String Parsing](https://github.com/5uso/String-Parser) - parse strings into a char array
 - [Quiet custom blocks](https://github.com/Ellivers/QCB) - make barrel based blocks without the noise
 - [Arithmatic WASD](https://github.com/MulverineX/wasd_arithmetic) - detection of local direction input (ie wasd)
+- [Ray Collision Detector](https://github.com/K-bai/Minecraft-Ray-Collision-Detector) - advanced ray casting and block/entity collition detection.
 
 **Mods**
 - [Data reload](https://www.curseforge.com/minecraft/mc-mods/data-reload) - displays datapack load errors in chat (when installed server side) and adds a F3+Y keybind to /reload (when installed client side)
