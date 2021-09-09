@@ -18,6 +18,7 @@ A curated list of minecraft commands and mapmaking resources.
 - [Lantern load](https://github.com/LanternMC/load) - a simple implementation of version resolution intended to allow data packs and their dependencies to load in a controllable order
 - [NBT Crafting API](https://github.com/BigPapi13/NBT-Crafting-API) - allows datapack creators to get the nbt data of items used in the crafting table and apply it to the output
 - [Quiet custom blocks](https://github.com/Ellivers/QCB) - make barrel based blocks without the noise
+- [Ray Collision Detector](https://github.com/K-bai/Minecraft-Ray-Collision-Detector) - advanced ray casting and block/entity collition detection.
 - [Score based damage](https://github.com/ErrorCraft/Score-Based-Damage/releases) - apply damage dynamically based on a score
 - [String Parsing](https://github.com/5uso/String-Parser) - parse strings into a char array
 
@@ -37,6 +38,7 @@ A curated list of minecraft commands and mapmaking resources.
 **Programming languages**
 - [Bell](https://github.com/Miestrode/bell) - programming language to help Minecraft data pack developers work smarter and faster
 - [CMC](https://github.com/Command-Master/CMC) - an object oriented language which compiles to commands
+- [debris](https://github.com/Inky-developer/debris) - Debris is a powerful language & compiler which aims to make the process of creating a datapack easier and quicker
 - [mc-build/lang-mc](https://mcbuild.dev) - a function like language with syntactic sugar for creating datapacks.
 - [McFunctionExtensions](https://github.com/cgytrus/MCFunctionExtensions) - some extensions to the vanilla Minecraft functions syntax
 - [Onyx](https://pypi.org/project/onyx-mclib) - a python library to create datapacks
