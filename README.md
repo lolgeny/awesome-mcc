@@ -23,6 +23,7 @@ A curated list of minecraft commands and mapmaking resources.
 - [String Parsing](https://github.com/5uso/String-Parser) - parse strings into a char array
 
 **Mods**
+- [Chase enabler](https://github.com/MrDodojo/minecraftChaseEnabler) - enables a debug feature called *Chase* on multiple versions
 - [Data reload](https://www.curseforge.com/minecraft/mc-mods/data-reload) - displays datapack load errors in chat (when installed server side) and adds a F3+Y keybind to /reload (when installed client side)
 - [Gitmod](https://github.com/rx-modules/GitMod) - a cursed serverside git client in mc
 - [Resource reload](https://github.com/PotatoPresident/resource-reload/tree/1.0.0) - resends the server resource pack to clients on `/reload`
