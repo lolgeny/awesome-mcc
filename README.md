@@ -8,19 +8,19 @@ A curated list of minecraft commands and mapmaking resources.
 - [Blockbench](https://www.blockbench.net) - a boxy 3D model editor
 
 **Generators**
-- [Shapes Generator](https://chencmd.github.io/Shapes-Generator/) - a web tool that can generate mcfunction files consisting of static particle commands
 - [mcgen](https://github.com/Arcensoth/mcgen) - create your own copy of mcdata
 - [misode.github.io](https://misode.github.io) - a collection of amazing generators for datapacks
 - [Raycast Generator](https://skylinerw.com/vdvman1/raycast/) - generate raycast datapacks
+- [Shapes Generator](https://chencmd.github.io/Shapes-Generator/) - a web tool that can generate mcfunction files consisting of static particle commands
 
 **Libraries**
+- [Arithmatic WASD](https://github.com/MulverineX/wasd_arithmetic) - detection of local direction input (ie wasd)
 - [Lantern load](https://github.com/LanternMC/load) - a simple implementation of version resolution intended to allow data packs and their dependencies to load in a controllable order
 - [NBT Crafting API](https://github.com/BigPapi13/NBT-Crafting-API) - allows datapack creators to get the nbt data of items used in the crafting table and apply it to the output
+- [Quiet custom blocks](https://github.com/Ellivers/QCB) - make barrel based blocks without the noise
+- [Ray Collision Detector](https://github.com/K-bai/Minecraft-Ray-Collision-Detector) - advanced ray casting and block/entity collition detection.
 - [Score based damage](https://github.com/ErrorCraft/Score-Based-Damage/releases) - apply damage dynamically based on a score
 - [String Parsing](https://github.com/5uso/String-Parser) - parse strings into a char array
-- [Quiet custom blocks](https://github.com/Ellivers/QCB) - make barrel based blocks without the noise
-- [Arithmatic WASD](https://github.com/MulverineX/wasd_arithmetic) - detection of local direction input (ie wasd)
-- [Ray Collision Detector](https://github.com/K-bai/Minecraft-Ray-Collision-Detector) - advanced ray casting and block/entity collition detection.
 
 **Mods**
 - [Data reload](https://www.curseforge.com/minecraft/mc-mods/data-reload) - displays datapack load errors in chat (when installed server side) and adds a F3+Y keybind to /reload (when installed client side)
@@ -46,6 +46,7 @@ A curated list of minecraft commands and mapmaking resources.
 - [Trident](https://energyxxer.com/trident/) - an extensive programming language for datapacks
 
 **Programs**
+- [Advancement Disabler](https://www.youtube.com/watch?v=GdOZf-WIonQ) - datapacks and scripts for disabling vanilla advancements and recipes
 - [Entity motion predictor](https://www.desmos.com/calculator/z7ouukcemh) - predict an entity's motion
 - [Image to particles converter](https://github.com/RedCocoon/PythonSiphon/blob/main/minecraft-tools/image_to_particles_converter.py) - convert an image into particles
 - [Mapcraft](https://mapcraft.app/) - software that increases the possibilities of mapmakers without any complex installation
@@ -57,11 +58,13 @@ A curated list of minecraft commands and mapmaking resources.
 
 **Shaders**
 - [Core shaders - Onnowhere](https://github.com/onnowhere/core_shaders) - contains utilities and examples for core shaders
+- [Depth shaders - Onnowhere](https://github.com/onnowhere/depth_shaders) - contains examples of depth shaders including function to linearize depth
 - [FancyPants](https://github.com/Ancientkingg/fancyPants) - allows datapack devs to add custom textured armor to the game with coloured leather armor with core shaders
 - [Mc Atlas UV Resolver](https://github.com/OrangeUtan/mc-atlas-uv-resolver/releases) - generated uv atalas for 1.17
 - [Player model mapping](https://user-images.githubusercontent.com/30565442/132574881-47defa76-cbe7-420d-9ca4-56b743666eca.png) - reference for the value of gl_VertexID in rendertype_entity_translucent for a player model
 - [Shaders wiki](https://github.com/ShockMicro/Minecraft-Shaders/wiki) - a helpful guide to minecraft's shader system
 - [VanillaDynamicEmissives](https://github.com/ShockMicro/VanillaDynamicEmissives/) - a simple way to make emissive textures without Optifine
+- [VertexEdit](https://github.com/onnowhere/VertexEdit) - a GLSL shader image tool for vanilla Minecraft with various vertex and UV editing features
 
 **Statistics**
 - [DatapackStats](https://github.com/ICY105/DatapackStats) - a small java program that will generate a bunch interesting numbers about your datapack
