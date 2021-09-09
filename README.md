@@ -16,6 +16,7 @@ A curated list of minecraft commands and mapmaking resources.
 - [NBT Crafting API](https://github.com/BigPapi13/NBT-Crafting-API) - allows datapack creators to get the nbt data of items used in the crafting table and apply it to the output
 - [Score based damage](https://github.com/ErrorCraft/Score-Based-Damage/releases) - apply damage dynamically based on a score
 - [Quiet custom blocks](https://github.com/Ellivers/QCB) - make barrel based blocks without the noise
+- [String Parsing](https://github.com/5uso/String-Parser) - parse strings into a char array
 
 **Mods**
 - [Data reload](https://www.curseforge.com/minecraft/mc-mods/data-reload) - displays datapack load errors in chat (when installed server side) and adds a F3+Y keybind to /reload (when installed client side)
