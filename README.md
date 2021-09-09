@@ -37,11 +37,11 @@ A curated list of minecraft commands and mapmaking resources.
 **Programming languages**
 - [Bell](https://github.com/Miestrode/bell) - programming language to help Minecraft data pack developers work smarter and faster
 - [CMC](https://github.com/Command-Master/CMC) - an object oriented language which compiles to commands
+- [mc-build/lang-mc](https://mcbuild.dev) - a function like language with syntactic sugar for creating datapacks.
 - [McFunctionExtensions](https://github.com/cgytrus/MCFunctionExtensions) - some extensions to the vanilla Minecraft functions syntax
 - [Onyx](https://pypi.org/project/onyx-mclib) - a python library to create datapacks
 - [Sandstone](https://github.com/TheMrZZ/Sandstone) - a javascript library for datapacks
 - [Trident](https://energyxxer.com/trident/) - an extensive programming language for datapacks
-- [mc-build/lang-mc](https://mcbuild.dev) - a function like language with syntactic sugar for creating datapacks.
 
 **Programs**
 - [Entity motion predictor](https://www.desmos.com/calculator/z7ouukcemh) - predict an entity's motion
