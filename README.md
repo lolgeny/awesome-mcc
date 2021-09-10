@@ -5,6 +5,7 @@ A curated list of minecraft commands and mapmaking resources.
 
 # Table of contents
 - [Blockbench](#blockbench)
+- [Data](#data)
 - [Generators](#generators)
 - [Libraries](#libraries)
 - [Mods](#mods)
@@ -23,6 +24,13 @@ A curated list of minecraft commands and mapmaking resources.
 # Blockbench
 - [Armor Stand Animator](https://github.com/DoubleF3lix/Armor-Stand-Animator) - provides an interface for Blockbench to animate armor stands which is converted to a data pack
 - [Blockbench](https://www.blockbench.net) - a boxy 3D model editor
+
+# Data
+- [ArticData](https://github.com/Articdive/ArticData) - repository of version-controlled history of curated additional game data generated with a Fabric mod
+- [Minecraft Assets](https://mcasset.cloud) - provides an interface to view a version-controlled history **all** raw minecraft data & assets for any version [hosted on GitHub](https://github.com/InventivetalentDev/minecraft-assets/tree/1.17.1)
+- [mcdata](https://github.com/Arcensoth/mcdata) - repository of version-controlled history of the Minecraft server's officially generated game data, along with processed files for most types
+- [mc-nbtdoc](https://github.com/Yurihaia/mc-nbtdoc) - partially-automatic updating repository of version-controlled history of Minecraft nbt schemas including entities, blocks, & items utilizing a generated Fabric mod & manual labor
+- [Vanilla Datapack](https://github.com/SPGoding/vanilla-datapack) - automatically updating repository of version-controlled history of Minecraft's Datapack with indexed type summaries (does not include Structure binaries, only their paths/names in the summary)
 
 # Generators
 - [mcgen](https://github.com/Arcensoth/mcgen) - create your own copy of mcdata
