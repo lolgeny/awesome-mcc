@@ -51,6 +51,7 @@ A curated list of minecraft commands and mapmaking resources.
 - [Chase enabler](https://github.com/MrDodojo/minecraftChaseEnabler) - enables a debug feature called *Chase* on multiple versions
 - [Data reload](https://www.curseforge.com/minecraft/mc-mods/data-reload) - displays datapack load errors in chat (when installed server side) and adds a F3+Y keybind to /reload (when installed client side)
 - [Gitmod](https://github.com/rx-modules/GitMod) - a cursed serverside git client in mc
+- [Language reload](https://modrinth.com/mod/language-reload) - adds F3+J to reload language files instantly, instant switching between languages
 - [Resource reload](https://github.com/PotatoPresident/resource-reload/tree/1.0.0) - resends the server resource pack to clients on `/reload`
 - [Shader reload](https://www.curseforge.com/minecraft/mc-mods/shader-reload) - adds F3+R to reload shaders only much faster, displaying errors in chat
 - [Worldedit](https://www.curseforge.com/minecraft/mc-mods/worldedit) - a map editor that runs in game
