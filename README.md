@@ -41,6 +41,7 @@ Varying sources of any documentable data for the game in various machine & human
 # Generators
 External tooling for easier generation/creation of various data(pack) files
 
+- [allay](https://pypi.org/project/allay/) - a parser to convert a descriptive text format into minecraft text components
 - [mcgen](https://github.com/Arcensoth/mcgen) - create your own copy of mcdata
 - [misode.github.io](https://misode.github.io) - a collection of amazing generators for datapacks
 - [Raycast Generator](https://skylinerw.com/vdvman1/raycast/) - generate raycast datapacks
@@ -52,7 +53,9 @@ Packs written for usage in other packs and/or maps that provide reusable functio
 Data:
 - [Arithmatic WASD](https://github.com/MulverineX/wasd_arithmetic) - detection of local direction input (ie wasd)
 - [Exported 1.18 Settings](https://github.com/misode/vanilla-worldgen/tree/1.18-experimental) - using modding, the vanilla worldgen files for the 1.18 experimental snapshots
+- [ftde](https://github.com/gibbsly/ftde) - prevent players from messing with fence gates and trapdoors while in adventure and survival
 - [Lantern load](https://github.com/LanternMC/load) - a simple implementation of version resolution intended to allow data packs and their dependencies to load in a controllable order
+- [ltos](https://github.com/gibbsly/ltos) - a utility that allows you to reliably determine where a block was broken and who or what broke it, as well as where an entity was killed and who or what killed it
 - [NBT Crafting API](https://github.com/BigPapi13/NBT-Crafting-API) - allows datapack creators to get the nbt data of items used in the crafting table and apply it to the output
 - [Quiet custom blocks](https://github.com/Ellivers/QCB) - make barrel based blocks without the noise
 - [Ray Collision Detector](https://github.com/K-bai/Minecraft-Ray-Collision-Detector) - advanced ray casting and block/entity collition detection.
@@ -99,6 +102,7 @@ Designed to pre-compile to minecraft packs in order to abstract and/or speed dev
 - [lectern](https://github.com/mcbeet/lectern) - literate programming, in Minecraft
 - [mc-build/lang-mc](https://mcbuild.dev) - a function like language with syntactic sugar for creating datapacks.
 - [McFunctionExtensions](https://github.com/cgytrus/MCFunctionExtensions) - some extensions to the vanilla Minecraft functions syntax
+- [minity](https://minity-script.github.io/#/) - A scripting language for Vanilla Minecraft
 - [Onyx](https://pypi.org/project/onyx-mclib) - a python library to create datapacks
 - [Sandstone](https://github.com/TheMrZZ/Sandstone) - a javascript library for datapacks
 - [Trident](https://energyxxer.com/trident/) - an extensive programming language for datapacks
