@@ -22,6 +22,7 @@ A curated list of minecraft commands and mapmaking resources.
 [Website](https://www.blockbench.net): easy to use, free, modern blockmodel editor. features plugins, display settings, custom keybindings, bedrock edition export and multi-cube editing.
 
 - [Armor Stand Animator](https://github.com/DoubleF3lix/Armor-Stand-Animator) - provides an interface for Blockbench to animate armor stands which is converted to a data pack
+- [Animated Java Plugin](https://www.blockbench.net/plugins/animated_java) - Generates smooth animations for vanilla java edition using a data pack, a resource pack, and lots of armor stands. "Let the java mobs dance too!"
 
 # Environment
 Add-ons for your coding environment to aid in development.
@@ -136,6 +137,7 @@ External applications/tooling to show off your packs' girth.
 - [Removing red numbers from sidebars](https://www.youtube.com/watch?v=dD6V0bKf-Bc) - how to display in the scoreboard without red number lines
 - [Smooth Rotation](https://www.youtube.com/watch?v=xamAY7fpgeQ) - smoothly rotate the player over time
 - [Workaround to MC-227930](https://gist.github.com/GrantGryczan/f0a51fc195f76da570d67826974bf2de#file-guide-to-working-around-mc-227930-md) - how to forceload a chunk this tick
+- [How to add a custom structure to the world](https://gist.github.com/misode/45559d34627755ecaa52497daea83544)
 
 # Utility
 Packs that provide utility for the development of packs.
