@@ -21,6 +21,7 @@ A curated list of minecraft commands and mapmaking resources.
 # Blockbench
 [Website](https://www.blockbench.net): easy to use, free, modern blockmodel editor. features plugins, display settings, custom keybindings, bedrock edition export and multi-cube editing.
 
+- [Animated Java Plugin](https://www.blockbench.net/plugins/animated_java) - Generates smooth animations for vanilla java edition using a data pack, a resource pack, and lots of armor stands. "Let the java mobs dance too!"
 - [Armor Stand Animator](https://github.com/DoubleF3lix/Armor-Stand-Animator) - provides an interface for Blockbench to animate armor stands which is converted to a data pack
 
 # Environment
@@ -132,6 +133,7 @@ External applications/tooling to show off your packs' girth.
 - [Custom UI bars](https://www.youtube.com/watch?v=EL2X6ppZSCQ) - how to add custom ui bars such as mana
 - [Entity hit detection](https://www.youtube.com/watch?v=YZfCBBvOMN4) - how to target hit entities
 - [How not to use /execute](https://gist.github.com/Aeldrion/419e3da12666280cbfd2dabf567dc36c) - common mistakes people make with `/execute`
+- [How to add a custom structure to the world](https://gist.github.com/misode/45559d34627755ecaa52497daea83544)
 - [Practices and tricks](https://gist.github.com/Ellivers/762822ee452f1beb058f044ec3139d73) - some good practices and common tricks for making a data pack for people that aren't as experienced
 - [Removing red numbers from sidebars](https://www.youtube.com/watch?v=dD6V0bKf-Bc) - how to display in the scoreboard without red number lines
 - [Smooth Rotation](https://www.youtube.com/watch?v=xamAY7fpgeQ) - smoothly rotate the player over time
